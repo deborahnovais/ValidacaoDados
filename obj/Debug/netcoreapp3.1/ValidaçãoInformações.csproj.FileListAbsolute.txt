@@ -1,0 +1,13 @@
+C:\Users\Deborah\Desktop\Senai\C#\ValidaçãoInformações\obj\Debug\netcoreapp3.1\ValidaçãoInformações.csprojAssemblyReference.cache
+C:\Users\Deborah\Desktop\Senai\C#\ValidaçãoInformações\obj\Debug\netcoreapp3.1\ValidaçãoInformações.AssemblyInfoInputs.cache
+C:\Users\Deborah\Desktop\Senai\C#\ValidaçãoInformações\obj\Debug\netcoreapp3.1\ValidaçãoInformações.AssemblyInfo.cs
+C:\Users\Deborah\Desktop\Senai\C#\ValidaçãoInformações\obj\Debug\netcoreapp3.1\ValidaçãoInformações.csproj.CoreCompileInputs.cache
+C:\Users\Deborah\Desktop\Senai\C#\ValidaçãoInformações\bin\Debug\netcoreapp3.1\ValidaçãoInformações.exe
+C:\Users\Deborah\Desktop\Senai\C#\ValidaçãoInformações\bin\Debug\netcoreapp3.1\ValidaçãoInformações.deps.json
+C:\Users\Deborah\Desktop\Senai\C#\ValidaçãoInformações\bin\Debug\netcoreapp3.1\ValidaçãoInformações.runtimeconfig.json
+C:\Users\Deborah\Desktop\Senai\C#\ValidaçãoInformações\bin\Debug\netcoreapp3.1\ValidaçãoInformações.runtimeconfig.dev.json
+C:\Users\Deborah\Desktop\Senai\C#\ValidaçãoInformações\bin\Debug\netcoreapp3.1\ValidaçãoInformações.dll
+C:\Users\Deborah\Desktop\Senai\C#\ValidaçãoInformações\bin\Debug\netcoreapp3.1\ValidaçãoInformações.pdb
+C:\Users\Deborah\Desktop\Senai\C#\ValidaçãoInformações\obj\Debug\netcoreapp3.1\ValidaçãoInformações.dll
+C:\Users\Deborah\Desktop\Senai\C#\ValidaçãoInformações\obj\Debug\netcoreapp3.1\ValidaçãoInformações.pdb
+C:\Users\Deborah\Desktop\Senai\C#\ValidaçãoInformações\obj\Debug\netcoreapp3.1\ValidaçãoInformações.genruntimeconfig.cache

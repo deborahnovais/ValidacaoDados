@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ValidaçãoInformações/1.0.0": {
+        "runtime": {
+          "ValidaçãoInformações.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ValidaçãoInformações/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
